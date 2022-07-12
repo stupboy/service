@@ -1,4 +1,4 @@
-module service
+module github.com/stupboy/service
 
 go 1.18
 
